@@ -8,3 +8,9 @@ test-ledger
 kryx.md
 .env
 .env.local
+kyrx.md
+*.log
+*.bak
+*.tmp
+*.swp
+*.swo       
